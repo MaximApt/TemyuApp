@@ -1,0 +1,2 @@
+alter table projects add foreign key(tz_id) references tz(id);
+alter table tz add foreign key(order_id) references orders(id)

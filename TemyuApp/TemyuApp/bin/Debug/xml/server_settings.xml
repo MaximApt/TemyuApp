@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<server>
+		<servername>MAX\SQLEXPRESS</servername>
+		<database>dev_db</database>
+		<login>sa</login>
+		<password>12345</password>
+	</server>
+</settings>
